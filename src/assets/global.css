@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  background: #edf9f9;
+}
+
+p {
+  font-style: italic;
+}
+
+::-moz-selection {
+  color: #e98b73;
+  background: black;
+}
+
+::selection {
+  color: #e98173;
+  background: rgb(88, 88, 88);
+}
